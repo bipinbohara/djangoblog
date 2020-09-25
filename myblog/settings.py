@@ -84,7 +84,7 @@ DATABASES = {
        'NAME': 'test_project_db',
        'USER': 'django_aws_demo',
        'PASSWORD': 'admin123',
-       'HOST': 'ec2-3-92-227-109.compute-1.amazonaws.com',
+       'HOST': 'django-aws-demo.cok1rzm0utvq.us-east-1.rds.amazonaws.com',
        'PORT': '5432',
    }
 }
