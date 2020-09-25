@@ -82,7 +82,7 @@ DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.postgresql_psycopg2',
        'NAME': 'django-aws-demo',
-       'USER': 'postgres',
+       'USER': 'django_aws_demo',
        'PASSWORD': 'admin123',
        'HOST': '3.92.227.109',
        'PORT': '5432',
